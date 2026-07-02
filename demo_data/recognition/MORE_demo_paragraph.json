@@ -1,0 +1,602 @@
+[
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "C = शंभर",
+        "pred": "C = शांभर",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "mr_95b24ca5eb4de7b8039d2fff25f27ab2_25_13_18.jpg",
+      "image_path": "mr_95b24ca5eb4de7b8039d2fff25f27ab2_25_13_18.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "mu.",
+        "pred": "mu.",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "ilo_6c5814fb6de24c1d6ec2a6848fbe6120_32_16_2.jpg",
+      "image_path": "ilo_6c5814fb6de24c1d6ec2a6848fbe6120_32_16_2.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "\"Prostituiston? Mi ne scias, sed mi dubas. Ŝi estas persono sufiĉe memstara. Sed vi devas demandi ŝin, ne min. Ĉiukaze, ĉu gravas hodiaŭ? Tio estas pasinteco.\"",
+        "pred": "”Prostituiston? Mi ne scias, sed mi dubas. Sî estas persono sufîče memstara. Sed vi devas demandi şin, ne min. Čiuokaze, ču gravas hodiaŭ? Tio estas pasinteco.”",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "eo_2b5f24c79174a6b6a68a5282c345cf19_69_35_3.jpg",
+      "image_path": "eo_2b5f24c79174a6b6a68a5282c345cf19_69_35_3.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": ".قاله خهريكم ناوی خویشم بیرئه چیته وه",
+        "pred": "قالَه خَه ريكم ناوى خوَّيشم بيرئه حيتىه وه،",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "ckb_2411011b4ee9000bd09d26036cc831a9_78_39_10.jpg",
+      "image_path": "ckb_2411011b4ee9000bd09d26036cc831a9_78_39_10.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "**мышленная политика;** аж үйлдвэрин   өмч   **промышленная собственность;**   аж   үйлдвэрин роботын     дагнан   хоршоолсон   үйлдвэрлэлиг боловсрулж зохион байгуулахад олон талаар хамтран ажиллах тухай еронхий   хэлэлцээр   **генеральное соглашение     о    многостороннем сотрудничестве     в     разработке и организации специализированного и кооперированного производства промышленных     роботов;**     аж",
+        "pred": "мышленная политика;аж ηйлдвэ-рийнөмчпромышленная собственность;аж ηйлдвэрийнроботындаг-нанхоршоолсон Ψйлдвэрлэлийгболовсруулжзохионбайгуулахаdолон талаар хамтран ажиллах тухайеренхий хзелэлцзэргенеральное соглашение о многостороннем сотрудничестве в разработке и организации специализированного и кооперированного производства промышленных роботов;аж",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "mn_e5eca798c6e51aaf3df196554da0c182_387_194_4.jpg",
+      "image_path": "mn_e5eca798c6e51aaf3df196554da0c182_387_194_4.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "「カムパネルラ、$\\overset{ぼく}{僕}$たちいらっしゃ行こうね」ジョバンニがこう $\\overset{い}{言}$いながらふりかえって見ましたら、そのいままでカムパネルラのすわっていた $\\overset{うた}{席}$に、もうカムパネルラの形は見えず、ただ黒いひろうどばかりひかっていた。",
+        "pred": "「カムパネルラ、僕たちいらっしゃい行こうねえ」ジョバンニがこう言いながらふりかえって見ましたら、そのいままでカムパネルラのすわっていた席に、もうカムパネルラの形は見えず、ただ黒いびろうどばかりひかていました。",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "ja_441a66ba1c38d5ec56c3751974269c6a_94_47_6.jpg",
+      "image_path": "ja_441a66ba1c38d5ec56c3751974269c6a_94_47_6.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "*Janez Potočnik, Kummissarju Ewropew għall-Ambjent*",
+        "pred": "Janez Potočnik, Kummissarju Ewropew għall-Ambjent",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "mt_8911b27027438b584bea0a4ab504688a_32_16_7.jpg",
+      "image_path": "mt_8911b27027438b584bea0a4ab504688a_32_16_7.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "\"Superdozo, kompreneble. Ŝi injektis troan dozon da heroino.\"",
+        "pred": "”Superdozo, kompreneble. Ši injektis troan dozon da heroino.”",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "eo_2b5f24c79174a6b6a68a5282c345cf19_69_35_10.jpg",
+      "image_path": "eo_2b5f24c79174a6b6a68a5282c345cf19_69_35_10.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "**аж байдал буюу амьдральн тувшин** уровень благосостояния или уровень жизни",
+        "pred": "аж байдал буюу амьдралын тувшин уровень благосостояния или уровень жизни",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "mn_e5eca798c6e51aaf3df196554da0c182_387_194_8.jpg",
+      "image_path": "mn_e5eca798c6e51aaf3df196554da0c182_387_194_8.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "– Бес зун мектебдиз мус рида?",
+        "pred": "- Бес zун мектебдиз мусрида?",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "lez_51925fc8276a5678955d8ae45d6dfe34_51_26_17.jpg",
+      "image_path": "lez_51925fc8276a5678955d8ae45d6dfe34_51_26_17.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "»Schsch«, sagte Ford, »los, komm rein.«",
+        "pred": "»Schsch«, sagte Ford, »los, komm rein.«",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "de_1315fa7a15c342694a099ff3f4e20052_230_115_10.jpg",
+      "image_path": "de_1315fa7a15c342694a099ff3f4e20052_230_115_10.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "Biditet nitt vil;",
+        "pred": "Biditet nįtt vil;",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "als_921a89d6bba943d76cbb7ca0c9839cd2_18_9_20.jpg",
+      "image_path": "als_921a89d6bba943d76cbb7ca0c9839cd2_18_9_20.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "*12-чu uи.* Сёзлеге эм сёз формалага башха сёле къошуб, кесеклери бир бирге бойсунмаган къош атла къураб джазыгыз.",
+        "pred": "12-чиииi. Cëzлеге эм cëz формалагъа бащха cëzле къошуб,кесеклери бир бирге бойсунмагъан къош атла къураб джазыгъзIЗ,",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "krc_c45a674d3a7dcef3a1f2b790737e51e3_295_148_5.jpg",
+      "image_path": "krc_c45a674d3a7dcef3a1f2b790737e51e3_295_148_5.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "$^\\ast$**amalgama:** o correcto é *amálgama*.",
+        "pred": "*amalgama: o correcto é amálgama.",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "gl_d09fb952899c1d140bd8959761d2fc40_140_70_22.jpg",
+      "image_path": "gl_d09fb952899c1d140bd8959761d2fc40_140_70_22.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "„Platit ćeš zbog ovog, židovsko pseto“, prosikće jedan od muškaraca.",
+        "pred": "„Platit ćeš zbog ovog, židovsko pseto“, prosikće jedan od muškaraca.",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "sh_0a369d279cd6b1fbd8d825474e43e2a3_207_104_13.jpg",
+      "image_path": "sh_0a369d279cd6b1fbd8d825474e43e2a3_207_104_13.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "Und das Flugboot schoß empor und verschwand über den funkelnden Dächern Vondiums im Schein der Zwillingssonne.",
+        "pred": "Und das Flugboot schoß empor und verschwand über den fun-kelnden Dächern V ondiums im Schein der Zwillingssonne.",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "de_2eacd279c7bf2b9d96a02fbe9fdc83bc_158_79_7.jpg",
+      "image_path": "de_2eacd279c7bf2b9d96a02fbe9fdc83bc_158_79_7.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "Обратись в любую генетическую лабораторию и по-проси дрозофил линии Су («кёрли»). Концы крыльев у них изогнуты кверху; что связано с изменением, лока-лизованным во второй хромосоме. А заодно попроси штук десять пробирок с питательной средой, чтоб не варить ее",
+        "pred": "Обратись в любую генетическую лабораторию и по-проси дрозофил линли Cy («кёрли»). Концы крыльев у них изогнуты кверху, что связано с изменением, лока-лизованным во второй хромосоме. А заодно попроси штук десять пробирок с питательной средой, чтоб не варить ее",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "te_6958fc70061b8a94ea74c1b6103dcc0e_169_85_4.jpg",
+      "image_path": "te_6958fc70061b8a94ea74c1b6103dcc0e_169_85_4.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "Tÿ-Hö",
+        "pred": "T¥-Hö",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "mhr_87ffbd0d7069e4919b5ed4d99b63ac9e_121_61_12.jpg",
+      "image_path": "mhr_87ffbd0d7069e4919b5ed4d99b63ac9e_121_61_12.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "ä ü . , ä",
+        "pred": "ä ü . , ä",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "fi_351cad9abc8fb3df304cf7d5298aee7b_209_105_30.jpg",
+      "image_path": "fi_351cad9abc8fb3df304cf7d5298aee7b_209_105_30.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "एतेषु चतुष्टु अपि वाक्येषु कर्मपदं न द्शयते । तथापि एतानि तु सर्कम्कवाक्यानि ।",
+        "pred": "एतेषु चतुष्ट्र आपि वाक्येषु कर्मपदं न हश्यते। तथापि एतानि तु सर्कर्भकवाक्यानि।",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "sa_5503cd5c5a318cd5e072044870da2239_142_71_9.jpg",
+      "image_path": "sa_5503cd5c5a318cd5e072044870da2239_142_71_9.jpg"
+    },
+    "extra": {}
+  }
+]

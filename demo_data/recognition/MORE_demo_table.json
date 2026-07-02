@@ -1,0 +1,702 @@
+[
+  {
+    "layout_dets": [
+      {
+        "category_type": "table",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "html": "<table>\n<tr>\n<td align=\"right\">kpanngban<br>ngban<br>an</td>\n<td align=\"right\">an<br>ngban<br>kpanngban</td>\n</tr>\n</table>",
+        "pred": "<table><tr><td>kpanngban</td><td>an</td></tr><tr><td>ngban</td><td>ngban</td></tr><tr><td>an</td><td>kpanngban</td></tr></table>",
+        "attribute": {
+          "table_layout": "horizontal",
+          "with_span": true,
+          "line": "fewer_line",
+          "language": "table_en",
+          "include_equation": true,
+          "include_photo": false,
+          "include_background": false,
+          "with_structured_text": false
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "war_fabc1ac3f6990b118cac8553b15ee30a_83_42_9.jpg",
+      "image_path": "war_fabc1ac3f6990b118cac8553b15ee30a_83_42_9.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "table",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "html": "<table><tr><td>5</td><td>Cuisenaire rods Use the cuisenaire rods to show that 4 times 3 is equal to 12.</td><td>Cuisenaire rods Uża l-Cuisenaire rods biex turi li 4 għal 3 darbiet huwa daqs 12.</td></tr><tr><td>5</td><td>move backward We can work out 15÷3 by moving backward five steps of three on the number line.</td><td>imxi b'lura Nistgħu naħdmu 15÷3 billi nimxu b'lura ħames passi ta' tlieta fuq il-linja tan-numri.</td></tr><tr><td>5</td><td>move forward We can show 4 x 3 on the number line by moving four steps of three forward.</td><td>imxi 'l quddiem Nistgħu nuru 4 x 3 fuq il-linja tan-numri billi nimxu erba' passi ta' tlieta 'l quddiem.</td></tr><tr><td>5</td><td>multiplication chart multiplication square We can use the multiplication square to find the product of six and three.</td><td>ċart tal-multiplikazzjoni Nistgħu nużaw iċ-ċart tal-multiplikazzjoni biex insibu l-prodott ta' sitta u tlieta.</td></tr><tr><td>5</td><td>number line Use the number line to show twelve times four.</td><td>linja tan-numri (s), linji tan-numri (pl) Uża l-linja tan-numri biex turi tnax għal erba' darbiet.</td></tr><tr><td>EY</td><td>straws Use straws to show the multiplication 5 x 2.</td><td>straw (s), straws (pl) Uża l-istraws biex turi l-multiplikazzjoni 5 x 2.</td></tr></table>",
+        "pred": "<table><tr><td>5</td><td>Cuisenaire rods</td><td>Cuisenaire rods</td></tr><tr><td>5</td><td>Use the cuisenaire rods to show that 4 times 3 is equal to 12.</td><td>Uża l-Cuisenaire rods biex turi li 4 għal 3 darbiet huwa daqs 12.</td></tr><tr><td>5</td><td>move backward</td><td>imxi b'lura</td></tr><tr><td>5</td><td>We can work out $ 15 \\div 3 $ by moving backward five steps of three on the number line.</td><td>Nistgħu naħdmu$ 15 \\div 3 $ billi nimxu b'lura ņames passi ta' tlieta fuq il-linja tan-numri.</td></tr><tr><td>5</td><td>move forward</td><td>imxi 'l quddiem</td></tr><tr><td>5</td><td>We can show$ 4 \\times 3 $ on the number line by moving four steps of three forward.</td><td>Nistgħu nuru$ 4 \\times 3 $ fuq il-linja tan-numri billi nimxu erba' passi ta' tlieta 'l quddiem.</td></tr><tr><td>5</td><td>multiplication chart multiplication square</td><td>ċart tal-multiplikazzjoni Nistgħu jużaw iċ-ċart tal-multiplikazzjoni biex insibu l-prodott ta' sitta u tlieta.</td></tr><tr><td>5</td><td>number line</td><td>linja tan-numri (s), linji tan-numri (pl)</td></tr><tr><td>5</td><td>Use the number line to show twelve times four.</td><td>Uża l-linja tan-numri biex turi tnax għal erba' darbiet.</td></tr><tr><td>EY</td><td>straws Use straws to show the multiplication$ 5 \\times 2 $.</td><td>straw (s), straws (pl) Uża l-istraws biex turi l-multiplikazzjoni$ 5 \\times 2 $.</td></tr></table>",
+        "attribute": {
+          "table_layout": "horizontal",
+          "with_span": true,
+          "line": "fewer_line",
+          "language": "table_en",
+          "include_equation": true,
+          "include_photo": false,
+          "include_background": false,
+          "with_structured_text": false
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "mt_6586cfff80b4ff7787d84f8cbbc09f84_108_54_4.jpg",
+      "image_path": "mt_6586cfff80b4ff7787d84f8cbbc09f84_108_54_4.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "table",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "html": "<table border=\"1\" cellpadding=\"5\" cellspacing=\"0\">   <tbody>     <tr>       <td>ਸਿੰਘਲਤ</td>       <td>ਪੰਜਾਬੀ</td>     </tr>     <tr>       <td>ਘਰਾ</td>       <td>ਘੰਘਾ</td>     </tr>     <tr>       <td>ਹੂਸਲ</td>       <td>ਹੂੰਠ</td>     </tr>     <tr>       <td>ਆਸੂ</td>       <td>ਉੱਸ</td>     </tr>     <tr>       <td>ਘਰ</td>       <td>ਸਿੱਘਾਂ</td>     </tr>   </tbody> </table>",
+        "pred": "र्मेमच्रूड् यंनिष्वी\n\nघ्द्ना धंडा\n\nछैप्टट्ट\n\nभप्रतु\n\nर्ठाझ्ड़\n\nफुवर\n\nसृंभां",
+        "attribute": {
+          "table_layout": "horizontal",
+          "with_span": true,
+          "line": "fewer_line",
+          "language": "table_en",
+          "include_equation": true,
+          "include_photo": false,
+          "include_background": false,
+          "with_structured_text": false
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "pa_ab31ab7781ef30161530c7209c9cd200_361_181_10.jpg",
+      "image_path": "pa_ab31ab7781ef30161530c7209c9cd200_361_181_10.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "table",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "html": "<table><tr><td>Пёрремёшле япала ячёсем</td><td>Иккёмёшле япала ячёсем</td></tr><tr><td>Вёсен морфологи палли ęук, сã-мах тымарёсем кáна шутланасę: aчa, ǎман, вăрман, хёр, шыв, юр, çул, юман, ялав, пус, пăр-ça, чăх, хёвел, пёлёт</td><td>Сãмах тымарё сумне тёрлё аф-фикссем хушáннипе пуласę: ачалăх, юманлăх, вăрлăх, тè-рёслěх, șēнёлĕх, курайманлăх, сăвăс (ă), юра̀сă, тимěрće, йывă-раш, тарайнаш</td></tr></table>",
+        "pred": "<table><tr><td>Пëpремěшле япала ячёсем</td><td>Иккëмěшле япала ячёсем</td></tr><tr><td>Вëсен морфологи палли çук, cả-мах тымарëсем кăна шутланаççë:aча, ămан, вărман, xëp, шыв,юр, çул, юман, ялав, пуç, năр-ça, чăx, хëвел, пělёт</td><td>Căмах тымарë çумне tëplë af-фикссем хушайнипе пулаççë:ачалăx, юманлăx, вăplăx, të-pëслëх, çënělëх, курайманлăх,căvăç (ă), юpăçă, timëpçë, йывă-păш, таpănăш</td></tr></table>",
+        "attribute": {
+          "table_layout": "horizontal",
+          "with_span": true,
+          "line": "fewer_line",
+          "language": "table_en",
+          "include_equation": true,
+          "include_photo": false,
+          "include_background": false,
+          "with_structured_text": false
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "cv_b846cb21c06fd4ef32335059f80dd430_47_24_13.jpg",
+      "image_path": "cv_b846cb21c06fd4ef32335059f80dd430_47_24_13.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "table",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "html": "<table>\n    <tr>\n        <td>DzSw 1820: 195–198</td>\n        <td>DzSw 1833: 190–192</td>\n        <td>Teicit Kungu 1986: 141–143; 2008: 118–120</td>\n    </tr>\n    <tr>\n        <td><i>Swatays Mikiels</i></td>\n        <td><i>Swatays Mikiels</i></td>\n        <td><i>Svātais Mikeļ, Gabrieļ un Rafaelļ</i></td>\n    </tr>\n    <tr>\n        <td><i>Swatays Gabriels</i></td>\n        <td><i>Swatays Gabriels</i></td>\n        <td><i>Svātais Abraham</i></td>\n    </tr>\n    <tr>\n        <td><i>Swatays Rafaels</i></td>\n        <td><i>Swatays Rafaels</i></td>\n        <td><i>Svātais Mozu</i></td>\n    </tr>\n    <tr>\n        <td><i>Swatays Jon&#769s krystitoys</i></td>\n        <td><i>Swatays Jon&#769s krystitoys</i></td>\n        <td><i>Svātais Elij</i></td>\n    </tr>\n    <tr>\n        <td><i>Swatays Jezups</i></td>\n        <td><i>Swatays Jezups</i></td>\n        <td><i>Svātais Jezup</i></td>\n    </tr>\n    <tr>\n        <td><i>Swatays Pieters</i></td>\n        <td><i>Swatays Pieters</i></td>\n        <td><i>Svātais Jōņ Kristeitōj</i></td>\n    </tr>\n</table>",
+        "pred": "<table><tr><td>DzSw 1820: 195–198</td><td>DzSw 1833: 190–192</td><td>Teicit Kungu 1986: 141–143; 2008: 118–120</td></tr><tr><td>Swatays Mikiels</td><td>Swatays Mikiels</td><td>Svātais Mikeļ, Gabrieļ un Rafael</td></tr><tr><td>Swatays Gabriels</td><td>Swatays Gabriels</td><td>Svātais Abraham</td></tr><tr><td>Swatays Rafaels</td><td>Swatays Rafaels</td><td>Svātais Mozu</td></tr><tr><td>Swatays Jońs krystitoys</td><td>Swatays Jońs krystitoys</td><td>Svātais Elij</td></tr><tr><td>Swatays Jezups</td><td>Swatays Jezups</td><td>Svātais Jezup</td></tr><tr><td>Swatays Pieters</td><td>Swatays Pieters</td><td>Svātais Jõņ Kristeitõj</td></tr></table>",
+        "attribute": {
+          "table_layout": "horizontal",
+          "with_span": true,
+          "line": "fewer_line",
+          "language": "table_en",
+          "include_equation": true,
+          "include_photo": false,
+          "include_background": false,
+          "with_structured_text": false
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "lv_ab6e8e5b4b5e9eb47ebd7ae36a6fc3d9_192_96_6.jpg",
+      "image_path": "lv_ab6e8e5b4b5e9eb47ebd7ae36a6fc3d9_192_96_6.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "table",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "html": "<table><tr><td>ก็มฉวิริ</td><td>ก็มึ </td></tr><tr><td>ธี่เณาบส</td><td>เณก</td></tr><tr><td>ฐลบนึ่</td><td>ลบb</td></tr><tr><td>โบเย่าล</td><td>เส</td></tr><tr><td>ทั่หาฐา</td><td>ทั่</td></tr><tr><td>รทูพ</td><td>ทั่</td></tr><tr><td>รทูพ</td><td>ญะ</td></tr><tr><td>รีกบ</td><td>รีก</td></tr><tr><td>ชูบ้ำด</td><td>คาด</td></tr><tr><td>เชง</td><td>ลน</td></tr><tr><td>ราบ</td><td>รา</td></tr></table>",
+        "pred": "ग्रींतg्रीं\n\nिंँeцaב\n\nछैलzपूँ\n\nरूछेय।छ\n\nरमुध\n\nरूकब\n\nसूचांsv\n\nर्गित\n\nर्शाएं",
+        "attribute": {
+          "table_layout": "horizontal",
+          "with_span": true,
+          "line": "fewer_line",
+          "language": "table_en",
+          "include_equation": true,
+          "include_photo": false,
+          "include_background": false,
+          "with_structured_text": false
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "km_94d8e8eb9967f8c34ec2cb4bc51202db_84_42_5.jpg",
+      "image_path": "km_94d8e8eb9967f8c34ec2cb4bc51202db_84_42_5.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "table",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "html": "<table border=\"1\" cellpadding=\"5\" cellspacing=\"0\">   <tbody>     <tr>       <td>         សំណួរ<br>         សំណួរ       </td>       <td>         សំណួរ<br>         សំណួរ       </td>     </tr>   </tbody> </table>",
+        "pred": "<table><tr><td>ة</td><td>ة</td></tr><tr><td>ة</td><td>ة</td></tr></table>",
+        "attribute": {
+          "table_layout": "horizontal",
+          "with_span": true,
+          "line": "fewer_line",
+          "language": "table_en",
+          "include_equation": true,
+          "include_photo": false,
+          "include_background": false,
+          "with_structured_text": false
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "km_94d8e8eb9967f8c34ec2cb4bc51202db_84_42_10.jpg",
+      "image_path": "km_94d8e8eb9967f8c34ec2cb4bc51202db_84_42_10.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "table",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "html": "<table border=\"1\" cellpadding=\"5\" cellspacing=\"0\">   <tbody>     <tr>       <td>А а<br>a</td>       <td>Б б<br>бэ</td>       <td>В в<br>вэ</td>       <td>Г г<br>гэ</td>       <td>Гь гь<br>гъэ</td>     </tr>     <tr>       <td>Гь гь<br>гъэ</td>       <td>Д д<br>дэ</td>       <td>Е е<br>е</td>       <td>Ё ё<br>ё</td>       <td>Ж ж<br>жэ</td>     </tr>     <tr>       <td>З з<br>зэ</td>       <td>И и<br>и</td>       <td>Й й<br>йи</td>       <td>К к<br>ка</td>       <td>Кь кь<br>къа</td>     </tr>     <tr>       <td>Кь кь<br>къа</td>       <td>Kl kl<br>кла</td>       <td>Л л<br>ла</td>       <td>М м<br>эм</td>       <td>Н н<br>эн</td>     </tr>     <tr>       <td>О о<br>о</td>       <td>П п<br>пэ</td>       <td>Pl pl<br>плэ</td>       <td>Р р<br>эр</td>       <td>С с<br>эс</td>     </tr>     <tr>       <td>Т т<br>тэ</td>       <td>Tl tl<br>тлэ</td>       <td>У у<br>у</td>       <td>Уь уь<br>уъ</td>       <td>Ф ф<br>эф</td>     </tr>     <tr>       <td>Х х<br>ха</td>       <td>Хь хь<br>хъа</td>       <td>Хь хь<br>хъа</td>       <td>Ц ц<br>цэ</td>       <td>Цl цl<br>цлэ</td>     </tr>     <tr>       <td>Ч ч<br>чэ</td>       <td>Чl чl<br>члэ</td>       <td>Ш ш<br>ша</td>       <td>Щ щ<br>ща</td>       <td>Ъ ъ<br>ъ</td>     </tr>     <tr>       <td>Ы ы<br>ы</td>       <td>Ь ь<br>ь</td>       <td>Э э<br></td>       <td>Ю ю<br></td>       <td>Я я<br></td>     </tr>   </tbody> </table>",
+        "pred": "A a\n\na\n\nБб\n\nбэ\n\nВ в\n\nвз\n\nГ г\n\nгъ гъ\n\nД д\n\nдз\n\nE e\n\nË Ð\n\nЖ ж\n\nжсз\n\nЗ з\n\nu\n\nИ и\n\nй й\n\nК к\n\nкъа\n\nКl kl\n\nЛ л\n\nла\n\nМ м\n\nнн\n\nнез\n\nП п\n\nПлп\n\nnIз\n\ndeص\n\nT т\n\nTI тl\n\nУ у\n\nYy\n\nУь уь\n\nФф\n\nmз\n\nmIз\n\ny\n\nyъ\n\nеф\n\nX x\n\nXъ хъ\n\nХъ хъ\n\nЦ ц\n\nЦlцl\n\neIч\n\nхъа\n\nчч\n\nШш\n\nиЧч\n\nuaи\n\nlчч\n\nbъ\n\nbъ\n\nяя",
+        "attribute": {
+          "table_layout": "horizontal",
+          "with_span": true,
+          "line": "fewer_line",
+          "language": "table_en",
+          "include_equation": true,
+          "include_photo": false,
+          "include_background": false,
+          "with_structured_text": false
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "lez_3751d5b25433e4155b56c18974d4ebca_164_82_4.jpg",
+      "image_path": "lez_3751d5b25433e4155b56c18974d4ebca_164_82_4.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "table",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "html": "<table style=\"text-align: right;\"><tr><td>nza</td><td>a</td></tr><tr><td>za</td><td>za</td></tr><tr><td>a</td><td>nza</td></tr></table>",
+        "pred": "<table><tr><td>nza</td><td>a</td></tr><tr><td>za</td><td>za</td></tr><tr><td>a</td><td>nza</td></tr></table>",
+        "attribute": {
+          "table_layout": "horizontal",
+          "with_span": true,
+          "line": "fewer_line",
+          "language": "table_en",
+          "include_equation": true,
+          "include_photo": false,
+          "include_background": false,
+          "with_structured_text": false
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "war_117cb285488677bd03b0a9f0382dbeba_83_42_13.jpg",
+      "image_path": "war_117cb285488677bd03b0a9f0382dbeba_83_42_13.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "table",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "html": "<table><tr><td>juejue</td><td>jue</td></tr><tr><td>jue</td><td>jue</td></tr><tr><td>tukpacε</td><td>cε</td></tr><tr><td>cε</td><td>cε</td></tr></table>",
+        "pred": "<table><tr><td>juejue</td><td>jue</td><td>jue</td></tr><tr><td>tukpacε</td><td>cε</td><td></td></tr><tr><td>jue</td><td>jue</td><td>cε</td></tr><tr><td></td><td>cε</td><td>cε</td></tr></table>",
+        "attribute": {
+          "table_layout": "horizontal",
+          "with_span": true,
+          "line": "fewer_line",
+          "language": "table_en",
+          "include_equation": true,
+          "include_photo": false,
+          "include_background": false,
+          "with_structured_text": false
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "war_fabc1ac3f6990b118cac8553b15ee30a_83_42_7.jpg",
+      "image_path": "war_fabc1ac3f6990b118cac8553b15ee30a_83_42_7.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "table",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "html": "<table><tr><td> singular</td><td> Plural</td><td> Singular</td><td> Plural</td></tr><tr><td>ġurdien</td><td>ġrieden</td><td>pjazza</td><td></td></tr><tr><td>qattus</td><td></td><td>suffara</td><td></td></tr><tr><td>razzett</td><td></td><td>sarvetta</td><td></td></tr><tr><td>duhhan</td><td></td><td>ċappetta</td><td></td></tr><tr><td>hanżir</td><td></td><td>fekruna</td><td></td></tr></table>",
+        "pred": "<table><tr><td>Singular</td><td>Plural</td><td>Singular</td><td>Plural</td></tr><tr><td>ġurdien</td><td>ġrieden</td><td>pjazza</td><td></td></tr><tr><td>qattus</td><td></td><td>suffara</td><td></td></tr><tr><td>razzett</td><td></td><td>sarvetta</td><td></td></tr><tr><td>duħħan</td><td></td><td>ċappetta</td><td></td></tr><tr><td>ħanżir</td><td></td><td>fekruna</td><td></td></tr></table>",
+        "attribute": {
+          "table_layout": "horizontal",
+          "with_span": true,
+          "line": "fewer_line",
+          "language": "table_en",
+          "include_equation": true,
+          "include_photo": false,
+          "include_background": false,
+          "with_structured_text": false
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "mt_2e4d7b016d0ee98d45b7390909f03d86_113_57_5.jpg",
+      "image_path": "mt_2e4d7b016d0ee98d45b7390909f03d86_113_57_5.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "table",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "html": "<table>\n    <tr>\n        <td rowspan=\"3\">/g/</td>\n        <td>\n            &#60g&#62\n        </td>\n        <td>Gas, Gaass, Gäns, Gedicht, gëschter, gewannen, gro</td>\n    </tr>\n    <tr>\n        <td>\n            &#60gg&#62\n        </td>\n        <td>▷ Hannert kuerzem Vokal: Agglomerat, aggressiv (Franséisch: agressif), Bagger, Bugger</td>\n    </tr>\n    <tr>\n        <td>\n            &#60gh&#62\n        </td>\n        <td>Spaghetti</td>\n    </tr>\n</table>",
+        "pred": "<table><tr><td rowspan=\"2\">/g/</td><td><g></td><td>$ \\text{Gas,} \\text{Gauss, Gänss, Gedicht, gëschter, gewannen, gro} $</td></tr><tr><td><gg></td><td>▷ Hannert kuerzem Vokal: $ Agglomerat, aggressiv $ (Franséisch$: aggressif),Bagger,Bugger $</td></tr><tr><td><gh></td><td>Spaghetti</td></tr></table>",
+        "attribute": {
+          "table_layout": "horizontal",
+          "with_span": true,
+          "line": "fewer_line",
+          "language": "table_en",
+          "include_equation": true,
+          "include_photo": false,
+          "include_background": false,
+          "with_structured_text": false
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "lb_b3ec89d86f1d6dfa231553ac9a916b3c_140_70_3.jpg",
+      "image_path": "lb_b3ec89d86f1d6dfa231553ac9a916b3c_140_70_3.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "table",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "html": "<table><tr><td>Còstas (65) (gasc)</td><td>[iwèr]</td><td>[klawá]</td><td>[deβará]</td></tr><tr><td>Lorda (65) (gasc)<sup>*</sup></td><td>[iwèr]</td><td>?</td><td>[deβará]</td></tr><tr><td>Lavedan (65) (gasc)</td><td>[iβèr]</td><td>[klaβá] [klawá] ~</td><td>[daβará] ~ [deβará]</td></tr><tr><td>Gèrs (32) (gasc)</td><td>[iwèr]</td><td>[klawá]</td><td>[deβará]</td></tr><tr><td>Biarn (64) (br)</td><td>[iβèr]</td><td>[klaβá]</td><td>[deβará]</td></tr><tr><td>Baish Ador (64) (gasc)</td><td>[klaβá]</td><td>[klaβá]</td><td>[dəβará]</td></tr><tr><td>Urt (64) (gasc)</td><td>[klaβá]</td><td>[klawá]</td><td>[dəβará]</td></tr><tr><td>Biscaròssa (40) (gasc)</td><td>[iwèr]</td><td>[klawá]</td><td>?</td></tr><tr><td>Mamisan (40) (gasc)</td><td>[iwèrn]</td><td>[klawá]</td><td>?</td></tr><tr><td>Sabres (40) (gasc)</td><td>[iwèrn]</td><td>[klawá]</td><td>[draβá]</td></tr><tr><td>Labrit (40) (gasc)</td><td>[iwèr]</td><td>[klawá]</td><td>?</td></tr><tr><td>Tarnòs (40) (gasc)</td><td>[iβèr]</td><td>[klaβá]</td><td>?</td></tr><tr><td>Aira (40) (gasc)</td><td>[iβèr]</td><td>[klaβá]</td><td>[deβará]</td></tr><tr><td>La Tèsta (33) (gasc)</td><td>[iwèrn]</td><td>[klawá]</td><td>[draβá] (?)</td></tr><tr><td>St Mevian (33) (gasc)</td><td>[iβèr]</td><td>?</td><td>[draβá] (?)</td></tr><tr><td>Mesin (47) (gasc)</td><td>[iwèr]</td><td>[klawá]</td><td>[deβará]</td></tr><tr><td>Puègmiròl (47)</td><td>[iβèr]</td><td>[klaβá]</td><td>?</td></tr><tr><td>Baumont (42) (gasc)</td><td>[iwèr]</td><td>[klawá] (?)</td><td>[deβará]</td></tr><tr><td>Moissac (82) (lg)</td><td>[iβèr]</td><td>[klaβá]</td><td>?</td></tr><tr><td>Aude (11) (lg)</td><td>?</td><td>[klaβá]</td><td>?</td></tr><tr><td>Avairon (12) (lg)</td><td>?</td><td>[klaβá]</td><td>?</td></tr></table>",
+        "pred": "<table><tr><td>Còstas (65) (gasc)</td><td>[iwèr]</td><td>[klawá]</td><td>[deβará]</td></tr><tr><td>Lorda (65) (gasc)*</td><td>[iwèr]</td><td>?</td><td>[deβará]</td></tr><tr><td>Lavedan (65) (gasc)</td><td>[iβèr]</td><td>[klaβá] [klawá]</td><td>~ [daβará] ~ [deβará]</td></tr><tr><td>Gèrs (32) (gasc)</td><td>[iwèr]</td><td>[klawá]</td><td>[deβará]</td></tr><tr><td>Biarn (64) (br)</td><td>[iβèr]</td><td>[klaβá]</td><td>[deβará]</td></tr><tr><td>Baish Ador (64) (gasc)</td><td>[klaβá]</td><td>[klaβá]</td><td>[døβará]</td></tr><tr><td>Urt (64) (gasc)</td><td>[klaβá]</td><td>[klawá]</td><td>[døβará]</td></tr><tr><td>Biscaròssa (40) (gasc)</td><td>[iwèr]</td><td>[klawá]</td><td>?</td></tr><tr><td>Mamisan (40) (gasc)</td><td>[iwèrn]</td><td>[klawá]</td><td>?</td></tr><tr><td>Sabres (40) (gasc)</td><td>[iwèrn]</td><td>[klawá]</td><td>[draβá]</td></tr><tr><td>Labrit (40) (gasc)</td><td>[iwèr]</td><td>[klawá]</td><td>?</td></tr><tr><td>Tarnòs (40) (gasc)</td><td>[iβèr]</td><td>[klaβá]</td><td>?</td></tr><tr><td>Aira (40) (gasc)</td><td>[iβèr]</td><td>[klaβá]</td><td>[deβará]</td></tr><tr><td>La Tèsta (33) (gasc)</td><td>[iwèrn]</td><td>[klawá]</td><td>[draβá] ( ?)</td></tr><tr><td>St Mevian (33) (gasc)</td><td>[iβèr]</td><td>?</td><td>[draβá] (?)</td></tr><tr><td>Mesin (47) (gasc)</td><td>[iwèr]</td><td>[klawá]</td><td>[deβará]</td></tr><tr><td>Puègmiròl (47)</td><td>[iβèr]</td><td>[klaβá]</td><td>?</td></tr><tr><td>Baumont (42) (gasc)</td><td>[iwèr]</td><td>[klawá] (?)</td><td>[deβará]</td></tr><tr><td>Moissac (82) (lg)</td><td>[iβèr]</td><td>[klaβá]</td><td>?</td></tr><tr><td>Aude (11) (lg)</td><td>?</td><td>[klaβá]</td><td>?</td></tr><tr><td>Avairon (12) (lg)</td><td>?</td><td>[klaβá]</td><td>?</td></tr></table>",
+        "attribute": {
+          "table_layout": "horizontal",
+          "with_span": true,
+          "line": "fewer_line",
+          "language": "table_en",
+          "include_equation": true,
+          "include_photo": false,
+          "include_background": false,
+          "with_structured_text": false
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "oc_1e1267a5526fd4ed7bd4e37e51620b20_92_46_8.jpg",
+      "image_path": "oc_1e1267a5526fd4ed7bd4e37e51620b20_92_46_8.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "table",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "html": "<table><tr><td>24</td><td>18:00 On vous parle de Paris (20′) On vous parle du Chili (16′) L’Ambassade (20′) 2084 (10′) Le 20 heures dans les camps (27) 20:15 Level Five (106′)</td><td>25</td><td>18:00 Sans Soleil (100′) 20:00 A. K. (71′)</td><td>26</td></tr><tr><td>31</td><td>18:00 Le fond de l’air est rouge* (180′) * Bost minututako atsedenaldia Descanso de cinco minutos</td><td></td><td></td></tr></table>",
+        "pred": "<table><tr><td>24</td><td>18:00 On vous parle de Paris (20′)On vous parle du Chili (16′)L´Ambassade (20′)2084 (10′)Le 20 heures dans les camps (27)20:15 Level Five (106′)</td><td>25</td><td>18:00 Sans Soleil (100′)20:00 A. K. (71′)</td><td>26</td></tr><tr><td>31</td><td>18:00 Le fond de l’air est rouge* (180′) * Bost minututako atsedenaldiaDescanso de cinco minutos</td><td></td><td></td></tr></table>",
+        "attribute": {
+          "table_layout": "horizontal",
+          "with_span": true,
+          "line": "fewer_line",
+          "language": "table_en",
+          "include_equation": true,
+          "include_photo": false,
+          "include_background": false,
+          "with_structured_text": false
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "eu_c27536e26a9da5853d46387a966a0ace_40_20_1.jpg",
+      "image_path": "eu_c27536e26a9da5853d46387a966a0ace_40_20_1.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "table",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "html": "<table><tr><td>iekāpt</td><td>pa logu (через окно) tramvajā (в трам-вай) laivā (в лодку) vilcienā (в поезд)</td><td>izkäpt</td><td>no tramvaja (с трамвая) по autobusa (из автобуса) по bedres (из ямы) по gultas (из постели) krastā (на берег) pieturā (на ос-тановке)</td></tr></table>",
+        "pred": "iekāpt\n\npa logu (через окно)\n\nizkāpt\n\nno tramvaja (с трамвая)\n\ntramvajā (в трам-вай)\n\nпо autobusa (из автобуса)\n\nlaivā (в лодку)\n\nпо bedres (из ямы)\n\nvilcienā (в поезд)\n\nпо gultas (из постели)\n\nkrastā (на берег)\n\npieturā (наос-тановке)\n\niekāpt\n\npa logu (через окно)\n\nizkāpt\n\nno tramvaja (с трамвая)\n\ntramvajā (в трам-вай)\n\nlaivā (в лодку)\n\nviIciенā (в поезд)",
+        "attribute": {
+          "table_layout": "horizontal",
+          "with_span": true,
+          "line": "fewer_line",
+          "language": "table_en",
+          "include_equation": true,
+          "include_photo": false,
+          "include_background": false,
+          "with_structured_text": false
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "lv_6569ff28772d49ef5eb42a0c9a3364a6_177_89_21.jpg",
+      "image_path": "lv_6569ff28772d49ef5eb42a0c9a3364a6_177_89_21.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "table",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "html": "<table border=\"1\" cellpadding=\"5\" cellspacing=\"0\">\n  <thead>\n    <tr>\n      <th rowspan=\"2\">Glavni objekti</th>\n      <th colspan=\"3\">Postrojenje</th>\n    </tr>\n    <tr>\n      <th>CS Zdralovaja</th>\n      <th>CS Vržerale</th>\n      <th>CS Mukišnica</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>Dovodni kanal</td>\n      <td>Regulacija jaruga i novi kanal<br>u duljini 35,0 km<br>F = 5—40,0 m²</td>\n      <td>Gl. kanal<br>L = 31,0 km,<br>F = 30—70,0 m²</td>\n      <td>L = 6 km<br>F<sub>max</sub> = 15,0 m²</td>\n    </tr>\n    <tr>\n      <td>Dovodni tunnel</td>\n      <td></td>\n      <td></td>\n      <td>L = 1000 m<br>F = 2,0 × 3,0—6,0 m²<br>(gravitacionij)</td>\n    </tr>\n    <tr>\n      <td>Tlačni cijevni vod</td>\n      <td>Armirani beton<br>L = 40,0 m<br>D = 3,60 m</td>\n      <td>Armirani beton<br>L = 80,0 m<br>D = 5,0 m</td>\n      <td>Armirani beton<br>L = 60,0 m<br>D = 2,8 m</td>\n    </tr>\n    <tr>\n      <td>Strojarnica</td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Trafo-postrojenje</td>\n      <td>Vanjski smjestaj<br>strojanice<br>i trafošnica 100 m²</td>\n      <td>Kao CS Zdralovac<br>površina: 216 m²</td>\n      <td>Kao CS Zdralovac<br>površina 100 m²</td>\n    </tr>\n    <tr>\n      <td>Rasklopno postrojenje</td>\n      <td></td>\n      <td></td>\n      <td></td>\n    </tr>\n    <tr>\n      <td>Odvodni kanal</td>\n      <td></td>\n      <td>L = 6,0 km<br>F = 50—70 m²</td>\n      <td></td>\n    </tr>\n  </tbody>\n</table>",
+        "pred": "<table><tr><td rowspan=\"2\">Glavni objekti</td><td colspan=\"3\">Postrojenje</td></tr><tr><td>CS Ždralovac</td><td>CS Vržerale</td><td>CS Mukišnica</td></tr><tr><td>Dovodni kanal</td><td rowspan=\"3\">Regulacija jaruga i novi kanali u duljini 35,0 km F=5-40,0 $ m^2 $</td><td>Gł. kanal L=31,0 km,F=30-70,$ m^2 $</td><td>L=6 km$F_{\\text{max}}=15,0m^2$</td></tr><tr><td>Dovodni tunnel</td><td></td><td>L=1000m F=2,0×$ \\times 3.0 = 6.0m^2$(gravitacioni)</td></tr><tr><td>Tlačni cijevni vod</td><td>Armirani beton L=40,0m D=3,60m</td><td>Armirani beton L=80,0m D=5,0m</td><td>Armirani beton L=60,0m D=2,8m</td></tr><tr><td>Strojarnica</td><td>smještaj strojarnice i trafostanice površina 100 $ m^2 $</td><td>Zdralovac Kao CS površina: 216 $ m^2 $</td><td>Zdralovac površina 100 $ m^2 $</td></tr><tr><td>Trafo-postrojenje</td><td></td><td></td><td></td></tr><tr><td>Rasklopno postrojenje</td><td></td><td></td><td></td></tr><tr><td>Odvodni kanal</td><td></td><td>L=6,0 km F=50-70 $ m^2 $</td><td></td></tr></table>",
+        "attribute": {
+          "table_layout": "horizontal",
+          "with_span": true,
+          "line": "fewer_line",
+          "language": "table_en",
+          "include_equation": true,
+          "include_photo": false,
+          "include_background": false,
+          "with_structured_text": false
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "bs_471c6ae5714dc5e53c6bf48b5df23813_15_8_12.jpg",
+      "image_path": "bs_471c6ae5714dc5e53c6bf48b5df23813_15_8_12.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "table",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "html": "<table><tr><td>Род. п.</td><td>Дат. п.</td><td>Вин. п.</td></tr><tr><td>1. шкенан</td><td>шкаланна, шканна</td><td>шкенам</td></tr><tr><td>2. шкендан</td><td>шкаланда, шканда</td><td>шкендам</td></tr><tr><td>3. шкеныштын</td><td>шкаланьшт, шканьшт</td><td>шкеныштым</td></tr></table>",
+        "pred": "Род. п.Дат. п.Вин. п.\n\n1.женканшкаланна, экранаженам\n\n2.икенданшкаланда, экрандащендам\n\n3.инкенъшTъншкаланьшт, шканьштженыйштым",
+        "attribute": {
+          "table_layout": "horizontal",
+          "with_span": true,
+          "line": "fewer_line",
+          "language": "table_en",
+          "include_equation": true,
+          "include_photo": false,
+          "include_background": false,
+          "with_structured_text": false
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "mhr_a20401de305ee9650066f27b6a2ab814_216_108_13.jpg",
+      "image_path": "mhr_a20401de305ee9650066f27b6a2ab814_216_108_13.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "table",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "html": "<table border=\"1\">\n  <tr>\n    <td>a. Football</td>\n    <td>Geck</td>\n  </tr>\n  <tr>\n    <td>b. Opere</td>\n    <td>Freak</td>\n  </tr>\n  <tr>\n    <td>c. Theater</td>\n    <td>Freend</td>\n  </tr>\n  <tr>\n    <td>d. Blumme(n)</td>\n    <td>Amateur</td>\n  </tr>\n  <tr>\n    <td>e. Meederchers</td>\n    <td>Wuerm</td>\n  </tr>\n  <tr>\n    <td>f. Kino</td>\n    <td>Fan</td>\n  </tr>\n  <tr>\n    <td>g. Bicher</td>\n    <td>Unhänger</td>\n  </tr>\n</table>",
+        "pred": "a. Football  ◆Geck\n\nb. Opere  ◆Freak\n\nc. Theater  ◆Frënd\n\nd. Blumme(n)  ◆Amateur\n\ne. Meederchers  ◆Wuerm\n\nf. Kino  ◆Fan\n\ng. Bicher  ◆Unhänger",
+        "attribute": {
+          "table_layout": "horizontal",
+          "with_span": true,
+          "line": "fewer_line",
+          "language": "table_en",
+          "include_equation": true,
+          "include_photo": false,
+          "include_background": false,
+          "with_structured_text": false
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "lb_96942db5b1bc8aa3255b2ade5a6a80df_108_54_14.jpg",
+      "image_path": "lb_96942db5b1bc8aa3255b2ade5a6a80df_108_54_14.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "table",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "html": "<table><tr><td>No.</td><td>Country</td><td>རྒྱལ་ཁབ།</td><td>Capital</td><td>རྒྱལ་ས།</td></tr><tr><td>72</td><td>Guyana</td><td>གྷུ་ཡ་ན།</td><td>Georgetown</td><td>ཇོར་ཇི་ཊོན།</td></tr><tr><td>73</td><td>Haiti</td><td>ཧེ་ཏི།</td><td>Port au Prince</td><td>པོརཊ་ཨོ་རྒྱལ་སྲས།</td></tr><tr><td>74</td><td>Honduras</td><td>ཧོན་ཌུ་ར་སི།</td><td>Tegucigalpa</td><td>ཏེ་གུ་ཅི་གྷལ་པ།</td></tr><tr><td>75</td><td>Hungary</td><td>ཧང་གྷ་རི།</td><td>Budapest</td><td>བུ་ཌ་པེསཊ།</td></tr><tr><td>76</td><td>Iceland</td><td>འཁྱགས་གླིང་།</td><td>Reykjavik</td><td>རེ་ཀ་ཇ་ཝིཀ།</td></tr><tr><td>77</td><td>India</td><td>छिकूटैंग्य (རྒྱ་གར)</td><td>New Delhi</td><td>ལྡི་ལི་གསར་པ།</td></tr><tr><td>78</td><td>Indonesia</td><td>ཧིན་རྡུ་ཉི་ཞི་ཡ།</td><td>Jakarta</td><td>ཇ་ཀར་ཏ།</td></tr><tr><td>79</td><td>Iran</td><td>ཨི་རན།</td><td>Tehran</td><td>ཏེ་ཧ་རན།</td></tr><tr><td>80</td><td>Iraq</td><td>ཨི་རག།</td><td>Baghdad</td><td>བྷག་ཌད།</td></tr><tr><td>81</td><td>Ireland</td><td>ཨིར་ལན་ཌི།</td><td>Dublin</td><td>ཌབ་ལིན།</td></tr><tr><td>82</td><td>Israel</td><td>དབྱི་སི་རལ།</td><td>Jerusalem</td><td>ཡེ་རུ་ཤ་ལེམ།</td></tr><tr><td>83</td><td>Italy</td><td>ཨི་ཊ་ལི།</td><td>Rome</td><td>རོམ།</td></tr></table>",
+        "pred": "<table><tr><td>No.</td><td>Country</td><td>कुभ्यायन्</td><td>Capital</td><td>कुभ्यरू</td></tr><tr><td>72</td><td>Guyana</td><td>छूंप्प्रश्र।</td><td>Georgetown</td><td>हेंठंत्दुक्।</td></tr><tr><td>73</td><td>Haiti</td><td>ढेंरी।</td><td>Port au Prince</td><td>ैंक्त्य،ध्युटुं.ईंक्ष।</td></tr><tr><td>74</td><td>Honduras</td><td>द्धूकृंट्ट्रफ्ष।</td><td>Tegucigalpa</td><td>र्तेगुक्ष.मून्यम्प।</td></tr><tr><td>75</td><td>Hungary</td><td>दूस्ट्रमूंने।</td><td>Budapest</td><td>झुंट्चेष्टर।</td></tr><tr><td>76</td><td>Iceland</td><td>छूविश्वेक्ट।</td><td>Reykjavik</td><td>रेवेश्म.विण।</td></tr><tr><td>77</td><td>India</td><td>छिकैंदेश्प।(कुंगर्)</td><td>New Delhi</td><td>वेकुंवेश।</td></tr><tr><td>78</td><td>Indonesia</td><td>छिकैंदेक्षेश्प।</td><td>Jakarta</td><td>हृंगम्रा।</td></tr><tr><td>79</td><td>Iran</td><td>छिनूनर्।</td><td>Tehran</td><td>रेंरूक।</td></tr><tr><td>80</td><td>Iraq</td><td>छिनूनर्।</td><td>Baghdad</td><td>झणंरूक।</td></tr><tr><td>81</td><td>Ireland</td><td>छूप्प्पेक्ट।</td><td>Dublin</td><td>रूपथिक।</td></tr><tr><td>82</td><td>Israel</td><td>छिष्टरेथ।</td><td>Jerusalem</td><td>हुनुष्यवेक्ष।</td></tr><tr><td>83</td><td>Italy</td><td>छिन्हीय।</td><td>Rome</td><td>ैंक्ष।</td></tr></table>",
+        "attribute": {
+          "table_layout": "horizontal",
+          "with_span": true,
+          "line": "fewer_line",
+          "language": "table_en",
+          "include_equation": true,
+          "include_photo": false,
+          "include_background": false,
+          "with_structured_text": false
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "bo_5320f9b6454295866fd7ccae17b47763_26_13_1.jpg",
+      "image_path": "bo_5320f9b6454295866fd7ccae17b47763_26_13_1.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "table",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "html": "<table><tr><td rowspan=\"2\"></td><td colspan=\"2\">Сäмах тёпё</td><td rowspan=\"2\">Форма тävakan<br>aФФKс</td><td rowspan=\"2\">Сäмаха улäшtara-<br>кан aФФKс</td></tr><tr><td>Сäмах<br>тымарё</td><td>Сäмах<br>тäva-kan<br>aФФKс</td></tr><tr><td>калавсäпа<br>вуламалли<br>юманлäхра<br>ирёклёх<br>хäравсäсем<br>сырусäran<br>илемлететпер<br>кävакарнä<br>шанчäклäraх<br>синсешке<br>килёшуллё<br>пёрлешичен<br>тасалäхшän</td><td>кала<br>вула<br>юман<br>ирёк<br>хäра<br>сыр<br>илем<br>кäвак<br>шан<br>синсе<br>пёр<br>таса</td><td>в+сä<br>лäх<br>в+сä<br>у+сä<br>лет<br>ар<br>чäк+лä<br>шке<br>у+ллё<br>леш<br>лäх</td><td>малл+и <br>ет нä рах <br>иччен</td><td>па ра сем ран п+ёр <br>шän</td></tr></table>",
+        "pred": "<table><tr><td rowspan=\"2\"></td><td colspan=\"2\">Cămax těpë</td><td rowspan=\"2\">Форма tăvakan</td><td rowspan=\"2\">Cămaxa yulăштарa-kan</td></tr><tr><td>Сăмах тымарë</td><td>Сăмах täva-kan</td><td>aфрикс</td></tr><tr><td>калавçăпа</td><td>кала</td><td>в+çã</td><td>малл+и</td><td>па</td></tr><tr><td>вулаmалли</td><td>вула</td><td>lăx</td><td></td><td>ра</td></tr><tr><td>юманлăхра</td><td>юман</td><td>лěx</td><td></td><td></td></tr><tr><td>ирëклëx</td><td>ирëk</td><td>лěx</td><td></td><td></td></tr><tr><td>xăравçăсем</td><td>xăpa</td><td>в+çã</td><td></td><td>сем</td></tr><tr><td>çыруçăран</td><td>çыр</td><td>y+çã</td><td></td><td>ран</td></tr><tr><td>ilemлететпëр</td><td>илем</td><td>лет</td><td>ет</td><td>n+ëp</td></tr><tr><td>kăvakaрнă</td><td>kăvak</td><td>ар</td><td>нă</td><td></td></tr><tr><td>шанчăклăрах</td><td>шан</td><td>чăк+лă</td><td>рах</td><td></td></tr><tr><td>ςинçeшеке</td><td>ςинсе</td><td>шке</td><td></td><td></td></tr><tr><td>киlëшуллë</td><td>киlëш</td><td>ý+ллë</td><td></td><td></td></tr><tr><td>něrleшиччен</td><td>něp</td><td>леш</td><td>иччен</td><td></td></tr><tr><td>тасалăхшайн</td><td>tasa</td><td>лăx</td><td></td><td>шайн</td></tr></table>",
+        "attribute": {
+          "table_layout": "horizontal",
+          "with_span": true,
+          "line": "fewer_line",
+          "language": "table_en",
+          "include_equation": true,
+          "include_photo": false,
+          "include_background": false,
+          "with_structured_text": false
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "cv_b846cb21c06fd4ef32335059f80dd430_47_24_11.jpg",
+      "image_path": "cv_b846cb21c06fd4ef32335059f80dd430_47_24_11.jpg"
+    },
+    "extra": {}
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "```\n 1 public class HelloImpl implements Hello {\n2\n3     public HelloImpl() throws RemoteException {\n4         super();\n5     }\n6\n7     public String sayHello (String name)\n8                              throws RemoteException {\n9         return name+\"_\"+(new Date ().toString ());\n10     }\n11\n12 }\n13\n14 public class HelloServer {\n15\n16   public static void main(String args[]){\n17\n18     if (System.getSecurityManager() == null) {\n19         System.setSecurityManager(new RMISecurityManager ())\n20     }\n21\n22     try {\n```",
+        "pred": "```java\npublic class HelloImpl implements Hello {\n    public HelloImpl() throws RemoteException {\n        super();\n    }\n\n    public String sayHello(String name) {\n        throws RemoteException {\n            return name+\" _ \"+(new Date().toString());\n        }\n    }\n\n}\npublic class HelloServer {\n\n    public static void main(String args[]) {\n\n        if (System.getSecurityManager() == null) {\n            System.setSecurityManager(new RMISecurityManager())\n        }\n\n        try {\n```",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "pl_13449a10d6979a29795b713986d0825f_149_71_9.jpg",
+      "image_path": "pl_13449a10d6979a29795b713986d0825f_149_71_9.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "```\n 5 public class LogoExample {\n 6\n 7     public static void main(String[] args) {\n 8         UserStorage task = new UserStorage();\n 9         Scanner sc = new Scanner (System.in);\n10         System.out.print(\"Введите логин > \");\n11         String login = sc.next();\n12         System.out.print(\"Введите пароль > \");\n13         String pwd = sc.next();\n14         UserInfo user = task.getUser(new AuthorizeInfo(login, pwd));\n15         if(user != null)\n16         {\n17             System.out.println(user.fio);\n18             System.out.println(user.city);\n19             System.out.println(user.mail);\n20         }\n21         else\n22             System.out.println(\"нет такого пользователя!\");\n23\n24    }\n25   }\n```",
+        "pred": "```java\npublic class LogoExample {\n\n    public static void main(String[] args) {\n        UserStorage task = new UserStorage();\n        Scanner sc = new Scanner(System.in);\n        System.out.print(\"Введите логин > \");\n        String login = sc.next();\n        System.out.print(\"Введите пароль > \");\n        String pwd = sc.next();\n        UserInfo user = task.getUser(new AuthorizeInfo(login, pwd));\n        if (user != null)\n        {\n            System.out.println(user.fio);\n            System.out.println(user.city);\n            System.out.println(user.mail);\n        }\n        else\n        {\n            System.out.println(\"нет такого пользователя!\");\n        }\n    }\n}\n```",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "ru_26387f6f44d4ad6a550dbbb23aff9e0b_183_112_4.jpg",
+      "image_path": "ru_26387f6f44d4ad6a550dbbb23aff9e0b_183_112_4.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "```\n/*\n * Programa: ej03b.c\n *\n * Descripción:\n *   Muestra el uso de los operadores incremento y decremento\n *   con un puntero, así como las peculiaridades de cada tipo\n *   de puntero.\n *\n```",
+        "pred": "/*\n* Programa: ej03b.c\n*\n* Descripción:\n* Muestra el uso de los operadores incremento y decremento\n* con un puntero, así como las peculiaridades de cada tipo\n* de puntero.\n*",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "es_4a62197621b2275999bcbd4d900ecd99_68_24_6.jpg",
+      "image_path": "es_4a62197621b2275999bcbd4d900ecd99_68_24_6.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "```\nclass Bangun {\n  double panjang;\n  double lebar;\n\n  // method dengan argumen\n  void isiData(double p, double l) {\n      panjang = p;\n      lebar = l;\n  }\n\n  // method yang mengembalikan nilai\n  double hitungLuas() {\n      double luas = panjang * lebar;\n      return luas;\n  }\n}\n\nclass pakaiBangun {\n public static void main(String[] args) {\n    Bangun b;\n\n    // instansiasi obyek\n    b = new Bangun();\n\n    // memanggil method isiData dan mengisi argumennya\n    b.isiData(6,8);\n\n    // memanggil method hitungLuas() untuk objek b\n    System.out.println(\"Luas b=\" + b.hitungLuas());\n  }\n}\n```",
+        "pred": "class Bangun {\n  double panjang;\n  double lebar;\n\n  // method dengan argumen\n  void isiData(double p, double l) {\n    panjang = p;\n    lebar = l;\n  }\n\n  // method yang mengembalikan nilai\n  double hitungLuas() {\n    double luas = panjang * lebar;\n    return luas;\n  }\n}\n\nclass pakaiBangun {\n  public static void main(String[] args) {\n    Bangun b;\n\n    // instansiasi obyek\n    b = new Bangun();\n\n    // memanggil method isiData dan mengisi argumennya\n    b.isiData(6,8);\n\n    // memanggil method hitungLuas() untuk objek b\n    System.out.println(\"Luas b = \" + b.hitungLuas());\n  }\n}",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "id_1e973f4c3959be1d57893caa25f11e5d_183_81_1.jpg",
+      "image_path": "id_1e973f4c3959be1d57893caa25f11e5d_183_81_1.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "```\n— dla serwera\n  server$ javac *.java\n  server$ java -Djava.security.policy=pol2   HelloServer\n— dla klienta\n  klient$ javac *.java\n  klient$ java HelloCli\n```",
+        "pred": "— dla serwera\n   server$ javac *.java\n   server$ java -Djava.security.policy=pol2   HelloServer\n— dla klienta\n   klient$ javac *.java\n   klient$ java HelloCli\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "pl_13449a10d6979a29795b713986d0825f_149_71_6.jpg",
+      "image_path": "pl_13449a10d6979a29795b713986d0825f_149_71_6.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "```\nboss = Sprite (\"./assets/boss.png\")\nmostrar_boss = False\nvida_boss = 40\n```",
+        "pred": "boss = Sprite(\"./assets/boss.png\")\nmostrar_boss = False\nvida_boss = 40\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "pt_6f0fa5f9ab797eb34079dc2f9ce5d457_142_127_3.jpg",
+      "image_path": "pt_6f0fa5f9ab797eb34079dc2f9ce5d457_142_127_3.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "```\n{\n\"filename\": \"NDA3Nzl5Mjkuemlw\",\n\"filename_decoded\": \"40772929.zip\",\n\"filesize\": 15768715,\n\"md5\": \"90496c4c4acbcb8fdf32ac0c323ef3f5\",\n\"header_md5\": \"34b75cbcedb3796423ee6f0b51a15fac\",\n\"sha1\": \"5d28148f9fb5666554f7a29b8773c4c0ccdaec6e\",\n\"sha256\": \"36fb59617ee2997aa15e1a64f972e6701c212bb3847c859cb4ccd28fb23c5b25\",\n\"crc32\": 3368094478,\n\"zip_password\":\"\",\n\"uncompressed_size\": 23465913,\n\"pdg_dir_name\":\"Vespro della Beata Vergine Bassus generalis_40772929\",\n\"pdg_main_pages_found\": 88,\n\"pdg_main_pages_max\": 88,\n\"total pages\": 90,\n\"total_pixels\": 978783288,\n\"pdf_generation_missing_pages\": false\n}\n```",
+        "pred": "{\n  \"filename\": \"NDA3NzI5Mjkuemlw\",\n  \"filename_decoded\": \"40772929.zip\",\n  \"filesize\": 15768715,\n  \"md5\": \"90496c4c4acbcb8fdf32ac0c323ef3f5\",\n  \"header_md5\": \"34b75cbcedb3796423ee6f0b51a15fac\",\n  \"sha1\": \"5d28148f9fb5666554f7a29b8773c4c0ccdaec6e\",\n  \"sha256\": \"36fb59617ee2997aa15e1a64f972e6701c212bb3847c859cb4ccd28fb23c5b25\",\n  \"crc32\": 3368094478,\n  \"zip_password\": \"\",\n  \"uncompressed_size\": 23465913,\n  \"pdg_dir_name\": \"Vespro della Beata Vergine Bassus generalis_40772929\",\n  \"pdg_main_pages_found\": 88,\n  \"pdg_main_pages_max\": 88,\n  \"total_pages\": 90,\n  \"total_pixels\": 978783288,\n  \"pdf_generation_missing_pages\": false\n}\n",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "it_aacid__duxiu_files__20240613T200727Z__k5h6bmcswjJTaAF4yyF2uZ_91_91_2.jpg",
+      "image_path": "it_aacid__duxiu_files__20240613T200727Z__k5h6bmcswjJTaAF4yyF2uZ_91_91_2.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "```\ndiv{ width: 600px;\n     padding: 10px;\n     border: 1px solid black;\n     margin: 20px; }\n```",
+        "pred": "```css\ndiv{ width: 600px;\n    padding: 10px;\n    border: 1px solid black;\n    margin: 20px; }\n```",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "de_9c5867c66d2948d6083854441afc4e08_160_82_9.jpg",
+      "image_path": "de_9c5867c66d2948d6083854441afc4e08_160_82_9.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "```\nprogram znaki;\nvar\n   c : char;\n\nbegin\n   write ('Podaj znak: ');\n   readln (c);\n   if c = ' '\n      then writeln ('Spacja')\n      else if (c >= '0') and (c <= '9')\n         then writeln ('Cyfra')\n         else if ((c >= 'A') and (c <= 'Z')) or ((c >= 'a')\n                 and (c <= 'z'))\n         then writeln ('Litera')\n         else if ord (c) < 32\n            then writeln ('Znak sterujacy')\n            else writeln ('Symbol');\nend.\n```",
+        "pred": "以下是提取的代码：\n\n```c\nprogram znaki;\nvar\n\nc : char;\n\nbegin\nwrite ('Podaj znak: ');\nreadln (c);\nif c = ' '\nthen writeln ('Spacja')\nelse if (c >= '0') and (c <= '9')\nthen writeln ('Cyfra')\nelse if ((c >= 'A') and (c <= 'Z')) or ((c >= 'a')\nand (c <= 'z'))\nthen writeln ('Litera')\nelse if ord (c) < 32\nthen writeln ('Znak sterujacy')\nelse writeln ('Symbol');\nend.\n```",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "pl_d60773f20f145720b1736faef421dfe8_195_169_1.jpg",
+      "image_path": "pl_d60773f20f145720b1736faef421dfe8_195_169_1.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "```\n// LoopFor.cpp\n// Ilustra o uso do\n// loop for.\n#include <iostream.h>\nint main()\n{\n    int contador = 0;\n    cout << \"\\n*** Usando while ***\";\n    while(contador < 10)\n    {\n         contador++;\n         cout << \"\\nContador = \"\n                 << contador;\n     } // Fim de while.\n     cout << \"\\n\\n*** Usando for ***\";\n     for(contador = 0; contador <= 10; contador++)\n             cout << \"\\nContador = \"\n                     << contador;\n     return 0;\n} // Fim de main()\n```",
+        "pred": "```cpp\n// LoopFor.cpp\n// Ilustra o uso do\n// loop for.\n#include <iostream.h>\nint main()\n{\n    int contador = 0;\n    cout << \"\\n*** Usando while ***\";\n    while(contador < 10)\n    {\n            contador++;\n            cout << \"\\nContador = \"\n                   << contador;\n    } // Fim de while.\n    cout << \"\\n\\n*** Usando for ***\";\n    for(contador = 0; contador <= 10; contador++)\n        cout << \"\\nContador = \"\n               << contador;\n    return 0;\n} // Fim de main()\n```",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "pt_f4ae8c29e4f94e2e8900cf002b95f5bb_193_61_11.jpg",
+      "image_path": "pt_f4ae8c29e4f94e2e8900cf002b95f5bb_193_61_11.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "```\nif(isset($_POST['submit'])){\n  require 'config.php';\n  $collection->deleteOne(['_id' => new MongoDB\\BSON\\ObjectID($_)\n  $_SESSION['success'] = \"Data Mahasiswa Berhasil dihapus\";\n  header(\"Location:index.php\");\n}\n```",
+        "pred": "```php\nif (isset($_POST['submit'])) {\n    require 'config.php';\n    $collection->deleteOne(['_id' => new MongoDB\\BSON\\ObjectID($_SESSION['success']) = \"Data_Mahasiswa Berhasil dihapus\";\n    header(\"Location: index.php\");\n}\n```",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "id_acf19ec2274103a15989b52104b3d70f_130_93_6.jpg",
+      "image_path": "id_acf19ec2274103a15989b52104b3d70f_130_93_6.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "```\n * Compilación:\n *   gcc ej03b.c -o ej03b\n *\n */\n#include<stdio.h>\nmain()\n{\n  /* Declaramos las variables necesarias */\n  int vectorE[5];\n  int i, *pEntero;\n  char vectorC[5], *pCaracter;\n  float vectorR[5], *pReal;\n  /* Llenamos los vectores con datos*/\n  for(i=0;i<5;i++)\n  {\n      vectorE[i]=i+1;\n      vectorC[i]=i+40;\n      vectorR[i]=(float)i*0.1;\n  }\n  /*Hacemos que el puntero apunte al array*/\n  pEntero = vectorE;\n  pCaracter = vectorC;\n  pReal = vectorR;\n  printf(\"\\n Los puntero se incrementaran es:\");\n  printf(\"\\n pEntero:  %i bytes\", sizeof(int));\n  printf(\"\\n pCaracter: %i bytes\", sizeof(char));\n  printf(\"\\n pReal:  %i bytes\", sizeof(float));\n  printf(\"\\n Cada vez que pongamos pountero+\\n\");\n  printf(\"%i,%c,%f\\n\", *pEntero, *pCaracter, *pReal);\n  pEntero++;  /* Equivale a pEntero=pEntero+1*/\n  pCaracter++;  /* Equivale a pCaracter-pCaracter+I*/\n  pReal++;    /* Equivale a pReal=pReal+I*/\n  printf(\"%i, %c, %f\\n\", *pEntero, *pCaracter, *pReal);\n  pEntero++;\n  pCaracter++;\n  pReal++;\n  printf(\"%i, %c, %f\\n\", *pEntero, *pCaracter, *pReal);\n  pEntero++;\n  pCaracter++;\n  pReal++;\n  printf(\"%i, %c, %f\\n\", *pEntero, *pCaracter, *pReal);\n  pEntero++;\n  pCaracter++;\n  pReal++;\n  printf(\"%i, %c, %f\\n\", *pEntero, *pCaracter, *pReal);\n}\n```",
+        "pred": "* Compilación:\n * \tgcc ej03b.c -o ej03b\n *\n */\n#include <stdio.h>\nmain()\n{\n\t/* Declaramos las variables necesarias */\n\tint vectorE[5];\n\tint i, *pEntero;\n\tchar vectorC[5], *pCaracter;\n\tfloat vectorR[5], *pReal;\n\t/* Llenamos los vectores con datos */\n\tfor(i=0;i<5;i++)\n\t{\n\t\t\tvectorE[i]=i+1;\n\t\t\tvectorC[i]=i+40;\n\t\t\tvectorR[i]=(float)i*0.1;\n\t}\n\t/* Hacemos que el puntero apunte al array */\n\tpEntero = vectorE;\n\tpCaracter = vectorC;\n\tpReal = vectorR;\n\tprintf(\"\\n Los puntero se incrementarán es:\");\n\tprintf(\"\\n pEntero:   %i bytes\", sizeof(int));\n\tprintf(\"\\n pCaracter: %i bytes\", sizeof(char));\n\tprintf(\"\\n pReal:     %i bytes\", sizeof(float));\n\tprintf(\"\\n Cada vez que pongamos \\\"puntero++\\\"\\n\");\n\tprintf(\" %i, %c, %f \\n\", *pEntero, *pCaracter, *pReal);\n\tpEntero++;\t\t/* Equivale a pEntero = pEntero +1 */\n\tpCaracter++;\t/* Equivale a pCaracter = pCaracter +1 */\n\tpReal++;\t\t/* Equivale a pReal = pReal +1 */\n\tprintf(\" %i, %c, %f \\n\", *pEntero, *pCaracter, *pReal);\n\tpEntero++;\n\tpCaracter++;\n\tpReal++;\n\tprintf(\" %i, %c, %f \\n\", *pEntero, *pCaracter, *pReal);\n\tpEntero++;\n\tpCaracter++;\n\tpReal++;\n\tprintf(\" %i, %c, %f \\n\", *pEntero, *pCaracter, *pReal);\n\tpEntero++;\n\tpCaracter++;\n\tpReal++;\n\tprintf(\" %i, %c, %f \\n\", *pEntero, *pCaracter, *pReal);\n}",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "es_4a62197621b2275999bcbd4d900ecd99_68_24_8.jpg",
+      "image_path": "es_4a62197621b2275999bcbd4d900ecd99_68_24_8.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "```\n DWORD BluetoothSdpGetAttributeValue(  \n   __in   LPBYTE pRecordStream,  \n   __in   ULONG cbRecordLength,  \n   __in   USHORT usAttributeId,  \n   __out  PSDP_ELEMENT_DATA pAttributeData  \n);\n```",
+        "pred": "DWORD BluetoothSdpGetAttributeValue(\n__in LPBYTE pRecordStream,\n__in ULONG cbRecordLength,\n__in USHORT usAttributeId,\n__out PSDP_ELEMENT_DATA pAttributeData\n);",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "pl_359037ddc256584fde4d7d8300b1000e_156_65_8.jpg",
+      "image_path": "pl_359037ddc256584fde4d7d8300b1000e_156_65_8.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "```\n 6 public class UserStorage{\n 7\n 8     public UserStorage(){\n 9         data = new Hashtable<AuthorizeInfo, UserInfo>();\n10         data.put(new AuthorizeInfo(\"1\", \"11\"),\n11                 new UserInfo(\"Novak E.A.\", \"novak@serv.com\", \"Stavropol\"));\n12         data.put(new AuthorizeInfo(\"2\", \"22\"),\n13                 new UserInfo(\"Storzev E.P.\", \"storzev@serv.com\", \"Moskow\"));\n14         data.put(new AuthorizeInfo(\"3\", \"33\"),\n15                 new UserInfo(\"Gumin T.S.\", \"gumin@serv.com\", \"New York\"));\n16         data.put(new AuthorizeInfo(\"4\", \"44\"),\n17                 new UserInfo(\"Shildin F.A.\", \"shildin@serv.com\", \"Paris\"));\n18         data.put(new AuthorizeInfo(\"5\", \"55\"),\n19                 new UserInfo(\"Skripin T.T.\", \"skripin@serv.com\", \"Krasnodar\"));\n20         data.put(new AuthorizeInfo(\"6\", \"66\"),\n21                 new UserInfo(\"Gunin F.F.\", \"gunin@serv.com\", \"Georgievsk\"));\n22     }\n23\n24     private Hashtable<AuthorizeInfo, UserInfo> data;\n25\n26     public UserInfo getUser(AuthorizeInfo ob){\n27         if(data.containsKey(ob))\n28            return data.get(ob);\n29         else return null;\n30     }\n31 }\n```",
+        "pred": "```java\npublic class UserStorage{\n\n    public UserStorage(){\n        data = new Hashtable<AuthorizeInfo, UserInfo>();\n        data.put(new AuthorizeInfo(\"1\", \"11\"),\n                new UserInfo(\"Novak E.A.\", \"novak@serv.com\", \"Stavropol\"));\n        data.put(new AuthorizeInfo(\"2\", \"22\"),\n                new UserInfo(\"Storzev E.P.\", \"storzev@serv.com\", \"Moskow\"));\n        data.put(new AuthorizeInfo(\"3\", \"33\"),\n                new UserInfo(\"Gumin T.S.\", \"gumin@serv.com\", \"New York\"));\n        data.put(new AuthorizeInfo(\"4\", \"44\"),\n                new UserInfo(\"Shildin F.A.\", \"shildin@serv.com\", \"Paris\"));\n        data.put(new AuthorizeInfo(\"5\", \"55\"),\n                new UserInfo(\"Skripin T.T.\", \"skripin@serv.com\", \"Krasnodar\"));\n        data.put(new AuthorizeInfo(\"6\", \"66\"),\n                new UserInfo(\"Gunin F.F.\", \"gunin@serv.com\", \"Georgievsk\"));\n    }\n\n    private Hashtable<AuthorizeInfo, UserInfo> data;\n\n    public UserInfo getUser(AuthorizeInfo ob){\n        if(data.containsKey(ob))\n            return data.get(ob);\n        else return null;\n    }\n}\n```",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "ru_26387f6f44d4ad6a550dbbb23aff9e0b_183_112_1.jpg",
+      "image_path": "ru_26387f6f44d4ad6a550dbbb23aff9e0b_183_112_1.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "```\n#include <iostream.h> // Zadanie 3.5\n#include <conio.h>\n\nmain()\n{\nint i=1;// ustalenie wartosci poczatkowej\n\ncout <<\"Program wyswietla liczby całkowite od 1 do 20.\" << endl;\n\ndo\n{\n if (i < 20)\n```",
+        "pred": "```cpp\n#include <iostream.h> // Zadanie 3.5\n#include <conio.h>\n\nmain()\n{\nint i = 1; // ustalenie wartosci poczatkowej\n\ncout << \"Program wyswietla liczby całkowite od 1 do 20.\" << endl;\n\ndo\n{\nif (i < 20)\n```",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "pl_bf8637b6b2af50c43b2a3e463665f808_122_35_10.jpg",
+      "image_path": "pl_bf8637b6b2af50c43b2a3e463665f808_122_35_10.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "```\nif(isset($_POST['submit'])){\n   $collection->updateOne(\n     ['_id' => new MongoDB\\BSON\\ObjectID($_GET['id']))],\n     ['$set' => [\n      'NIP' => $_POST['NIP'],\n      'Nama' => $_POST['Nama'],\n      'Phone' => $_POST['Phone'],\n      'Alamat' => $_POST['Alamat'],\n      'Bagian' => $_POST['Bagian'],\n      'Cabang' => $_POST['Cabang'],\n   ]\n]\n);\n  $_SESSION['success'] = \"Data Mahasiswa berhasil diubah\n  header(\"Location: index.php\");\n}\n```",
+        "pred": "if(isset($_POST['submit'])){\n  $collection->updateOne(\n    ['_id' => new MongoDB\\BSON\\ObjectID($_GET['id'])],\n    ['$set' => [\n      'NIP' => $_POST['NIP'],\n      'Nama' => $_POST['Nama'],\n      'Phone' => $_POST['Phone'],\n      'Alamat' => $_POST['Alamat'],\n      'Bagian' => $_POST['Bagian'],\n      'Cabang' => $_POST['Cabang'],\n    ]\n  ]);\n  $_SESSION['success'] = \"Data Mahasiswa berhasil diubah\"\n  header(\"Location: index.php\");\n}",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "id_acf19ec2274103a15989b52104b3d70f_130_93_2.jpg",
+      "image_path": "id_acf19ec2274103a15989b52104b3d70f_130_93_2.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "```\ncurl X GET http://10.210.1.24:8888/api/rtc H\nAPI KEY:078725375deee4f719049ad98f9b36a3\n```",
+        "pred": "curl X GET http://10.210.1.24:8888/api/rtc H\nAPI KEY: 078725375deee4f719049ad98f9b36a3",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "ru_2d465782d595a445426f77f6bca01d3f_100_24_6.jpg",
+      "image_path": "ru_2d465782d595a445426f77f6bca01d3f_100_24_6.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "```\n #define LED BLUE_LED\n\n unsigned int compteur;\n unsigned int compteurR;\n unsigned int compteurV;\n unsigned int compteurB;\n \n void setup() {\n   pinMode (LED, OUTPUT);\n }\n \n void loop() {\n   digitalWrite (LED, HIGH);\n   delay (200);\n   digitalWrite (LED, LOW);\n   delay (200);\n   compteur++;\n   compteurB++;\n}\n```",
+        "pred": "```c\n#define LED BLUE_LED\n\nunsigned int compteur;\nunsigned int compteurR;\nunsigned int compteurV;\nunsigned int compteurB;\n\nvoid setup() {\n  pinMode(LED, OUTPUT);\n}\n\nvoid loop() {\n  digitalWrite(LED, HIGH);\n  delay(200);\n  digitalWrite(LED, LOW);\n  delay(200);\n  compteur++;\n  compteurB++;\n}\n```",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "fr_c8abe6a8a877f8b3382104690be09c77_100_9_1.jpg",
+      "image_path": "fr_c8abe6a8a877f8b3382104690be09c77_100_9_1.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "```\nimport androidx.activity.viewModels\nimport androidx.compose.foundation.layout.Column\nimport androidx.compose.material.Button\nimport androidx.compose Material.Text\nimport androidx.compose.runtime.Composable\nimport androidx.compose.runtime.getValue\n\nclass MainActivity: ComponentActivity() {\n  private val viewModel: CountViewModel by viewModels()\n\n  override fun onCreate(savedInstanceState: Bundle?) {\n    super.onCreate(savedInstanceState)\n    setContentView {\n      CountUp(viewModel = viewModel)\n    }\n  }\n}\n\n/**\n * カウントアップボタンと現在のカウントの回数を\n * 表示するComposable関数\n *\n * カウントアップボタンが押下されるたびに、ViewModelで\n * 保持されるカウントの回数を1つ増やし、表示を更新する。\n */\n@Composable\nfun CountUp(viewModel: CountViewModel) {\n  val count: Int by viewModel.count\n\n  Column {\n    Text(\n      text = \"$count\"\n    )\n```",
+        "pred": "```kotlin\nimport androidx.activity.viewModels\nimport androidx.compose.foundation.layout.Column\nimport androidx.compose.material.Button\nimport androidx.compose.material.Text\nimport androidx.compose.runtime.Composable\nimport androidx.compose.runtime.getValue\n\nclass MainActivity : ComponentActivity() {\n    private val viewModel: CountViewModel by viewModels()\n\n    override fun onCreate(savedInstanceState: Bundle?) {\n        super.onCreate(savedInstanceState)\n        setContent {\n            CountUp(viewModel = viewModel)\n        }\n    }\n}\n\n/**\n * カウントアップボタンと現在のカウントの回数を\n * 表示するComposable関数\n *\n * カウントアップボタンが押下されるたびに、ViewModelで\n * 保持されるカウントの回数を1ずつ増やし、表示を更新する。\n */\n@Composable\nfun CountUp(viewModel: CountViewModel) {\n    val count: Int by viewModel.count\n\n    Column {\n        Text(\n            text = \"$count\"\n        )\n    }\n}\n```",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "ja_71c4d25273269b7a9789a3b95a818dcf_127_72_0.jpg",
+      "image_path": "ja_71c4d25273269b7a9789a3b95a818dcf_127_72_0.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "text_block",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "```\n// Двумерный динамический массив n*m\ndouble **a;\nint n, m;\n```",
+        "pred": "// Двумерный динамический массив n*m double **a;\nint n, m;",
+        "attribute": {
+          "text_language": "text_english",
+          "text_background": "white",
+          "text_rotate": "normal"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "ru_45cfa1e7c3e4c5d98d2055d05f09621d_142_76_5.jpg",
+      "image_path": "ru_45cfa1e7c3e4c5d98d2055d05f09621d_142_76_5.jpg"
+    },
+    "extra": {}
+  }
+]

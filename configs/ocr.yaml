@@ -1,0 +1,11 @@
+recogition_eval:
+  metrics:
+    - Edit_dist
+  dataset:
+    dataset_name: omnidocbench_single_module_dataset
+    ground_truth:
+      data_path: ./demo_data/recognition/MORE_demo_paragraph.json
+      data_key: text
+    prediction:
+      data_key: pred
+    category_type: text

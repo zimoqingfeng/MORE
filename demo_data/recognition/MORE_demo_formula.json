@@ -1,0 +1,562 @@
+[
+  {
+    "layout_dets": [
+      {
+        "category_type": "equation_isolated",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "latex": "$$ V_{2}=V_{\\delta}+V_{z 2}+\\frac{1}{2} V_{j2}=\\mathrm{f}(\\Phi) .\\quad(3) $$",
+        "pred": "$$ V_{2}=V_{\\delta}+V_{x2}+\\frac{1}{2}V_{j2}=f(\\Phi). $$(3)",
+        "attribute": {
+          "formula_type": "print"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "bs_919fe8db159d816e405b8ec8c9c638f9_130_65_18.jpg",
+      "image_path": "bs_919fe8db159d816e405b8ec8c9c638f9_130_65_18.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "equation_isolated",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "latex": "$$\ns_{pn}=\\frac{R_{r n}}{\\omega_{s}\\Lambda}\\quad\\text{(11-43)}\n$$",
+        "pred": "$$ s_{pn}=\\frac{R_{rn}}{\\omega_s\\Lambda} $$\n\n(11-43)",
+        "attribute": {
+          "formula_type": "print"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "sl_b9942dda6c476248e59e33f605e2cf4f_144_72_26.jpg",
+      "image_path": "sl_b9942dda6c476248e59e33f605e2cf4f_144_72_26.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "equation_isolated",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "latex": "$$ (x,z)\\in A\\cap\\mathcal{B}(q,\\varepsilon) $$",
+        "pred": "$$ (x,z)\\in A\\cap\\mathcal{B}(q,\\varepsilon) $$",
+        "attribute": {
+          "formula_type": "print"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "ca_ffde9e04a6368323e7db09075e660dd6_300_150_11.jpg",
+      "image_path": "ca_ffde9e04a6368323e7db09075e660dd6_300_150_11.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "equation_isolated",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "latex": "$$ \\frac{d^{2} f}{d\\xi^{2}}+\\frac{2}{\\xi}\\cdot\\frac{d f}{d\\xi}+\\frac{1}{2}\\xi\\frac{d f}{d\\xi}+\\frac{3}{2} f=0\\quad(15) $$",
+        "pred": "$$ \\frac{d^2 f}{d \\xi^2}+\\frac{2}{\\xi} \\cdot \\frac{d f}{d \\xi}+\\frac{1}{2} \\xi \\frac{d f}{d \\xi}+\\frac{3}{2} f=0 $$\n\n(15)",
+        "attribute": {
+          "formula_type": "print"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "ca_2bbcea1721f9dc27e488bf20abca52db_461_231_15.jpg",
+      "image_path": "ca_2bbcea1721f9dc27e488bf20abca52db_461_231_15.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "equation_isolated",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "latex": "$$\\text{III.} \\cos x=1-\\frac{1}{2 !}x^{2}+\\cdots+\\frac{(-1)^{n}}{(2 n)!}x^{2n}+o\\left(x^{2 n+1}\\right),\\quad x\\rightarrow 0;$$",
+        "pred": "III.$ \\cos x = 1 - \\frac{1}{2!}x^2 + \\cdots + \\frac{(-1)^n}{(2n)!}x^{2n} + o(x^{2n+1}) $, $ x \\rightarrow 0 $；\n\n$$ \\lambda $$",
+        "attribute": {
+          "formula_type": "print"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "hy_a32b21bf6d19fcf4682fde2e720070ed_120_60_12.jpg",
+      "image_path": "hy_a32b21bf6d19fcf4682fde2e720070ed_120_60_12.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "equation_isolated",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "latex": "$$ P(x)=(x-x_{1})(x-x_{2})\\cdot\\ldots\\cdot(x-x_{n}) $$",
+        "pred": "$$ P(x)=(x-x_1)(x-x_2) \\cdots \\cdot(x-x_n) $$",
+        "attribute": {
+          "formula_type": "print"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "hy_a32b21bf6d19fcf4682fde2e720070ed_120_60_16.jpg",
+      "image_path": "hy_a32b21bf6d19fcf4682fde2e720070ed_120_60_16.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "equation_isolated",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "latex": "$$\n\\mathcal{Q}_{\\mathrm{H}}=\\left(35,88 \\mathrm{CH}_{4}+64,3 \\mathrm{C}_{2} \\mathrm{H}_{6}+93,18 \\mathrm{C}_{3} \\mathrm{H}_{8}+123,5 \\mathrm{C}_{4} \\mathrm{H}_{10}\\right) 0,01=\n$$",
+        "pred": "$ Q_{\\text{н}} = (35,88 \\mathrm{CH}_4 + 64,3 \\mathrm{C}_2 \\mathrm{H}_{6} + 93,18 \\mathrm{C}_3 \\mathrm{H}_{8} + 123,5 \\mathrm{C}_4 \\mathrm{H}_{10}) 0,01 =$",
+        "attribute": {
+          "formula_type": "print"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "ko_4cef6faf62400640334d0c6e82767a0f_148_74_18.jpg",
+      "image_path": "ko_4cef6faf62400640334d0c6e82767a0f_148_74_18.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "equation_isolated",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "latex": "$$ s=1:280z_{\\text {oro}}+1z_{b}=200\\mathrm{mill}. $$",
+        "pred": "$$ s = 1 : 280z_{\\text{orо }} + 1z_b = 200 \\text{ mill. } $$",
+        "attribute": {
+          "formula_type": "print"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "es_60c95dc22fa725fb675b7b42dcc7a1d5_286_143_8.jpg",
+      "image_path": "es_60c95dc22fa725fb675b7b42dcc7a1d5_286_143_8.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "equation_isolated",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "latex": "$$\nA_{эш}=\\frac{M_{б}^{2} l}{2GJ_{p}}.\n$$",
+        "pred": "$$ A_{\\text {ми }}=\\frac{M_{b}^{2} l}{2 G J_{p}} . $$",
+        "attribute": {
+          "formula_type": "print"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "tt_7e8e64f5d6b4bd4b1f9b9bdf1fb5a365_83_42_20.jpg",
+      "image_path": "tt_7e8e64f5d6b4bd4b1f9b9bdf1fb5a365_83_42_20.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "equation_isolated",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "latex": "$$\n\\underline{I_{s0}}=\\sqrt{\\frac{2 v\\sqrt{v^{2}-1}}{1+s_{p}^{2}}}\\approx v\\sqrt{\\frac{2}{1+s_{p}^{2}}} \\quad (11-46)\n$$",
+        "pred": "$$ \\underline{I_{s0}}=\\sqrt{\\frac{2v\\sqrt{v^2-1}}{1+s_p^2}}\\approx v\\sqrt{\\frac{2}{1+s_p^2}} $$\n\n(11-46)",
+        "attribute": {
+          "formula_type": "print"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "sl_b9942dda6c476248e59e33f605e2cf4f_144_72_25.jpg",
+      "image_path": "sl_b9942dda6c476248e59e33f605e2cf4f_144_72_25.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "equation_isolated",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "latex": "$$( 3\\ce{CH2=CH2} + 2\\ce{KMnO4} + 4\\ce{H2O} \\longrightarrow 3\\underset{\\ce{OH}}{\\underset{|}{\\ce{CH2}}}-\\underset{\\ce{OH}}{\\underset{|}{\\ce{CH2}}} + 2\\ce{MnO2} + 2\\ce{KOH} )$$",
+        "pred": "$$ 3\\mathrm{CH}_2=\\mathrm{CH}_2+2\\mathrm{KMnO}_4+4\\mathrm{H}_2\\mathrm{O}\\longrightarrow \\underset{\\text{OH}}{3\\mathrm{H}_2\\mathrm{C}}-\\underset{\\cdot}{\\mathrm{CH}_2}+2\\mathrm{MnO}_2+2\\mathrm{KOH} $$",
+        "attribute": {
+          "formula_type": "print"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "pnb_cc7044fdfc9e991d31e5669aa947c9c5_224_112_24.jpg",
+      "image_path": "pnb_cc7044fdfc9e991d31e5669aa947c9c5_224_112_24.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "equation_isolated",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "latex": "$$\nI_{s}=\\frac{U_{s}}{\\sqrt{\\left(\\frac{R_{r}}{s}\\right)^{2}+\\left(\\omega_{s}\\Lambda\\right)^{2}}}\\quad \\text{(11-40)}\n$$",
+        "pred": "$$ I_{s}=\\frac{U_{s}}{\\sqrt{\\left(\\frac{R_{r}}{s}\\right)^2+(\\omega_s \\Lambda)^2}} $$\n(11-40)",
+        "attribute": {
+          "formula_type": "print"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "sl_b9942dda6c476248e59e33f605e2cf4f_144_72_24.jpg",
+      "image_path": "sl_b9942dda6c476248e59e33f605e2cf4f_144_72_24.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "equation_isolated",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "latex": "$$\n\\mathcal{Q}_{6}=12950\\cdot 0,20\\cdot 52\\cdot 40=5,4\\cdot 10^{6}\\text {МДж/год. }\n$$",
+        "pred": "$ Q_6=12 $ $ 950 \\cdot 0,20 \\cdot 52 \\cdot 40 = 5,4 \\cdot 10^6 $ МДж/год.",
+        "attribute": {
+          "formula_type": "print"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "ko_4cef6faf62400640334d0c6e82767a0f_148_74_22.jpg",
+      "image_path": "ko_4cef6faf62400640334d0c6e82767a0f_148_74_22.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "equation_isolated",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "latex": "$$ l^{\\prime}=l\\sqrt{1-\\frac{v^{2}}{c^{2}}} $$",
+        "pred": "$$ l^{\\prime} = l \\sqrt{1 - \\frac{v^2}{c^2}} $$",
+        "attribute": {
+          "formula_type": "print"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "vi_213829ec216d223a5df6892b71cb15d4_166_83_15.jpg",
+      "image_path": "vi_213829ec216d223a5df6892b71cb15d4_166_83_15.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "equation_isolated",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "latex": "$$\nd\\varphi=\\frac{M_{\\sigma}}{G J_{p}}dx,\n$$",
+        "pred": "$$ d\\varphi=\\frac{M_{\\bar{\\sigma}}}{GJ_{p}}dx, $$",
+        "attribute": {
+          "formula_type": "print"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "tt_7e8e64f5d6b4bd4b1f9b9bdf1fb5a365_83_42_21.jpg",
+      "image_path": "tt_7e8e64f5d6b4bd4b1f9b9bdf1fb5a365_83_42_21.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "equation_isolated",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "latex": "$$ \\mathrm{HGeCl}_{3}+\\mathrm{CH}_{2}=\\mathrm{CHCN}\\rightarrow\\mathrm{Cl}_{3}\\mathrm{GeCH}_{2}\\mathrm{CH}_{2}\\mathrm{CN}(53\\%) $$",
+        "pred": "$$ H G e \\mathrm{Cl}_3 + \\mathrm{CH}_2 = \\mathrm{CHCN} \\rightarrow \\mathrm{Cl}_3 \\mathrm{GeCH}_2 \\mathrm{CH}_2 \\mathrm{CN} (53\\%) $$",
+        "attribute": {
+          "formula_type": "print"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "ky_90f1bdef9edfee8e4369cedaaf2788a9_135_68_17.jpg",
+      "image_path": "ky_90f1bdef9edfee8e4369cedaaf2788a9_135_68_17.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "equation_isolated",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "latex": "$$ \\frac{\\partial\\theta}{\\partial t}=\\frac{Q}{c(\\alpha t)^{3/2}}\\left\\{-\\frac{3}{2 t}\\cdot f-\\frac{1}{2 t}\\xi\\cdot f^{\\prime}(\\xi)\\right\\} $$ $$ \\frac{\\partial\\theta}{\\partial r}=\\frac{Q}{c(\\alpha t)^{3/2}}\\cdot\\frac{1}{(\\alpha t)^{1/2}}\\cdot f^{\\prime}(\\xi) ;\\frac{\\partial^{2}\\theta}{\\partial r^{2}}=\\frac{Q}{c(\\alpha t)^{3/2}}\\cdot\\frac{1}{\\alpha t}f^{\\prime\\prime}(\\xi)\\quad\\text {(14)} $$",
+        "pred": "$$ \\begin{array}{l}\n\\frac{\\partial \\theta}{\\partial t}=\\frac{Q}{c(\\alpha t)^{3 / 2}} \\cdot \\frac{1}{(\\alpha t)^{1 / 2}} \\cdot f^{\\prime}(\\xi) ; \\quad \\frac{\\partial^2 \\theta}{\\partial r^2}=\\frac{Q}{c(\\alpha t)^{3 / 2}} \\cdot \\frac{1}{\\alpha t} f^{\\prime \\prime}(\\xi) \\\\\n\\end{array} $$",
+        "attribute": {
+          "formula_type": "print"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "ca_2bbcea1721f9dc27e488bf20abca52db_461_231_12.jpg",
+      "image_path": "ca_2bbcea1721f9dc27e488bf20abca52db_461_231_12.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "equation_isolated",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "latex": "$$\n\\ce {R_{3}MH}+\\ce{XCH}=\\ce{CH_{2}}\\rightarrow \\ce{R_{3}MCH_{2}CH_{2}X}\n$$",
+        "pred": "$$ \\mathrm{R}_3\\mathrm{MH}+\\mathrm{XCH}_{2}=\\mathrm{CH}_2\\rightarrow\\mathrm{R}_3\\mathrm{MCH}_2\\mathrm{CH}_2 \\mathrm{X} $$",
+        "attribute": {
+          "formula_type": "print"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "ky_90f1bdef9edfee8e4369cedaaf2788a9_135_68_20.jpg",
+      "image_path": "ky_90f1bdef9edfee8e4369cedaaf2788a9_135_68_20.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "equation_isolated",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "latex": "$$\nI_{s}=\\frac{U_{s}}{\\omega_{s}\\Lambda\\sqrt{1+\\left(\\frac{s_{p}}{s}\\right)^{2}}} \\quad \\text{(11-41)}\n$$",
+        "pred": "$$ I_{s}=\\frac{U_{s}}{\\omega s\\Lambda \\sqrt{1 + \\left(\\frac{s_p}{s}\\right)^2}} $$\n\n(11-41)",
+        "attribute": {
+          "formula_type": "print"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "sl_b9942dda6c476248e59e33f605e2cf4f_144_72_22.jpg",
+      "image_path": "sl_b9942dda6c476248e59e33f605e2cf4f_144_72_22.jpg"
+    },
+    "extra": {}
+  },
+  {
+    "layout_dets": [
+      {
+        "category_type": "equation_isolated",
+        "poly": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "latex": "$$\nI_{s0}=\\sqrt{\\frac{1+\\left(\\frac{s_{pn}}{s_{n}}\\right)^{2}}{1+s_{p}^{2}}} \\quad \\text (11-45)\n$$",
+        "pred": "$$ \\underline{I_{s0}}=1\\frac{1 + (\\frac{s_{pn}}{s_n})^2}{1+s_p^2}\\quad(11-45) $$",
+        "attribute": {
+          "formula_type": "print"
+        }
+      }
+    ],
+    "page_info": {
+      "page_attribute": {},
+      "img_id": "sl_b9942dda6c476248e59e33f605e2cf4f_144_72_21.jpg",
+      "image_path": "sl_b9942dda6c476248e59e33f605e2cf4f_144_72_21.jpg"
+    },
+    "extra": {}
+  }
+]
