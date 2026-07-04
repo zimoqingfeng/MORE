@@ -2,14 +2,14 @@
 
 <p align="center">
   <img alt="ICML 2026" src="https://img.shields.io/badge/ICML-2026%20accepted-b31b1b">
-  <img alt="Python" src="https://img.shields.io/badge/python-3.10-3776ab">
   <img alt="Languages" src="https://img.shields.io/badge/languages-149-2f6f8f">
   <img alt="Tasks" src="https://img.shields.io/badge/tasks-6-0e8a16">
   <img alt="License" src="https://img.shields.io/badge/license-Apache--2.0-blue">
 </p>
 
 <p align="center">
-  📄 <a href="https://openreview.net/pdf?id=ov240fehF6">ICML 2026 Paper</a> &nbsp;|&nbsp; 📦 Dataset: coming soon
+  <a href="https://openreview.net/pdf?id=ov240fehF6"><img alt="ICML 2026 Paper" src="https://img.shields.io/badge/Paper-ICML%202026-b31b1b.svg"></a>
+  <a href="https://huggingface.co/datasets/zimoqingfeng/MORE"><img alt="Dataset: HuggingFace" src="https://img.shields.io/badge/Dataset-HuggingFace-ffd21e.svg?logo=huggingface"></a>
 </p>
 
 <p align="center">
