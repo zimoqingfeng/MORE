@@ -1,15 +1,11 @@
 <h1 align="center">MORE: A <u><strong>M</strong></u>ultilingual D<u><strong>o</strong></u>cument Pa<u><strong>r</strong></u>sing B<u><strong>e</strong></u>nchmark and Evaluation</h1>
 
 <p align="center">
-  <img alt="ICML 2026" src="https://img.shields.io/badge/ICML-2026%20accepted-b31b1b">
-  <img alt="Languages" src="https://img.shields.io/badge/languages-149-2f6f8f">
-  <img alt="Tasks" src="https://img.shields.io/badge/tasks-6-0e8a16">
-  <img alt="License" src="https://img.shields.io/badge/license-Apache--2.0-blue">
-</p>
-
-<p align="center">
-  <a href="https://openreview.net/pdf?id=ov240fehF6"><img alt="ICML 2026 Paper" src="https://img.shields.io/badge/Paper-ICML%202026-b31b1b.svg"></a>
+  <a href="https://openreview.net/pdf?id=ov240fehF6"><img alt="Paper: ICML2026" src="https://img.shields.io/badge/Paper-ICML2026-b31b1b.svg"></a>
   <a href="https://huggingface.co/datasets/zimoqingfeng/MORE"><img alt="Dataset: HuggingFace" src="https://img.shields.io/badge/Dataset-HuggingFace-ffd21e.svg?logo=huggingface"></a>
+  <img alt="Language: 149" src="https://img.shields.io/badge/Language-149-2f6f8f.svg">
+  <img alt="Task: 6" src="https://img.shields.io/badge/Task-6-0e8a16.svg">
+  <img alt="License: Apache 2.0" src="https://img.shields.io/badge/License-Apache--2.0-blue.svg">
 </p>
 
 <p align="center">
